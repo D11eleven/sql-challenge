@@ -8,4 +8,4 @@ Employee Database: A Mystery in Two Parts
 
 
 
-Initial Commit  
+Started Schema SQL ... loaded CSV ...  need to define PK and FK 
