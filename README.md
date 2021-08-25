@@ -8,4 +8,4 @@ Employee Database: A Mystery in Two Parts
 
 
 
-Started Schema SQL ... loaded CSV ...  need to define PK and FK 
+Redid Schema.sql with QuickEBD... loaded CSV  successful...  queries and bonus working
