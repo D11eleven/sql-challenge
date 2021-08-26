@@ -8,4 +8,4 @@ Employee Database: A Mystery in Two Parts
 
 
 
-Working Queries 5-8;   1-4 complete 
+Queries 1-8 complete; Bonus need to work ; need to clean up sql code  
