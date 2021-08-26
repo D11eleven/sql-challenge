@@ -8,4 +8,4 @@ Employee Database: A Mystery in Two Parts
 
 
 
-Redid Schema.sql with QuickEBD... loaded CSV  successful...  queries and bonus working
+Working Queries 5-8;   1-4 complete 
